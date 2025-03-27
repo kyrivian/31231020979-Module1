@@ -1,0 +1,16 @@
+C:\Kyrivian\Module-1-master\Bai4\bin\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.exe
+C:\Kyrivian\Module-1-master\Bai4\bin\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.deps.json
+C:\Kyrivian\Module-1-master\Bai4\bin\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.runtimeconfig.json
+C:\Kyrivian\Module-1-master\Bai4\bin\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.dll
+C:\Kyrivian\Module-1-master\Bai4\bin\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.pdb
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Bai4.Bai4.resources
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.csproj.GenerateResource.cache
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.AssemblyInfoInputs.cache
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.AssemblyInfo.cs
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.csproj.CoreCompileInputs.cache
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.dll
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\refint\Module1Bai4_NguyenNgocThaoVan.dll
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.pdb
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenNgocThaoVan.genruntimeconfig.cache
+C:\Kyrivian\Module-1-master\Bai4\obj\Debug\net8.0-windows\ref\Module1Bai4_NguyenNgocThaoVan.dll
